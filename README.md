@@ -32,8 +32,7 @@
        
        
        <iframe width="400" height="205" src="https://www.youtube.com/embed/HF-Z_dRU6zA?si=LvKrbLFouPjcZLIe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      
-        
+       
         <p><b>Red Bull Energy Drink.</b></p>
    </section>
    <section class="content"><!--code used to define a standalone section in website-->
